@@ -1,0 +1,3 @@
+https://colab.research.google.com/drive/1NTTE85DZQBb6v7O9SZoDaGc7R64Sajam?usp=sharing
+https://tensorspace.org/html/playground/index.html
+https://poloclub.github.io/cnn-explainer/
